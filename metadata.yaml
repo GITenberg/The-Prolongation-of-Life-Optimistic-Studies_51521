@@ -1,6 +1,9 @@
 _repo: The-Prolongation-of-Life-Optimistic-Studies_51521
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Essais optimistes. English
+covers:
+- cover_type: archival
+  image_path: 51521-h/images/cover.jpg
 creator:
   author:
     agent_name: Metchnikoff, Elie
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '7034'
     url: http://www.gutenberg.org/2009/agents/7034
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51521#The-Prolongation-of-Life-Optimistic-Studies
 gutenberg_issued: '2016-03-21'
 gutenberg_type: Text
 identifiers:
