@@ -1,0 +1,39 @@
+_repo: The-Prolongation-of-Life-Optimistic-Studies_51521
+_version: 0.0.1
+alternative_title: Essais optimistes. English
+creator:
+  author:
+    agent_name: Metchnikoff, Elie
+    alias: Мечников, Илья Ильич
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '46445'
+    url: http://www.gutenberg.org/2009/agents/46445
+    wikipedia: https://en.wikipedia.org/wiki/%C3%89lie_Metchnikoff
+  editor:
+    agent_name: Mitchell, P. Chalmers (Peter Chalmers), Sir
+    alias: Mitchell, Peter Chalmers, Sir
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '7034'
+    url: http://www.gutenberg.org/2009/agents/7034
+description: ''
+gutenberg_issued: '2016-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51521'
+  lccn: 08012571
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QP'
+- !lcc 'RA'
+- !lcsh 'Longevity'
+- !lcsh 'Older people -- Social conditions'
+- !lcsh 'Aging'
+- !lcsh 'Hygiene'
+- GITenberg
+title: 'The Prolongation of Life: Optimistic Studies'
+url: http://www.gutenberg.org/ebooks/51521
